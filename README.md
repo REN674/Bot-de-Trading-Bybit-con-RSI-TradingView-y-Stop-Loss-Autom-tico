@@ -1,0 +1,1 @@
+# Bot-de-Trading-Bybit-con-RSI-TradingView-y-Stop-Loss-Autom-tico
